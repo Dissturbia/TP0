@@ -1,0 +1,73 @@
+html {
+	border: 2px solid black;
+	width: 1600px;
+	height: 1000px;
+	margin-left: 0%;
+	margin-right: 3%;
+	margin-top: 7%;
+
+
+
+}
+
+body {
+	width: 1480px;
+	height: 440px;
+	border: 2px solid black;
+	margin-left: 3%;
+	margin-right:2%;
+	margin-top: 8%;
+	
+	
+}
+
+img {
+	width: 1480px;
+	height: 440px;
+	
+
+}
+
+p {
+	text-align: center;
+	font-family: sans-serif;
+
+
+}
+
+form {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.plataformas {
+	text-align: right;
+	margin-right: 36px;
+}
+
+.icono {
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+}
+
+div.icono img {
+	height: 36px;
+	width: 36px;
+}
+
+h5 {
+	text-align: center;
+	font-family: monospace;
+}
+
+
+
+
+
+ 
+
+
+
+
+
